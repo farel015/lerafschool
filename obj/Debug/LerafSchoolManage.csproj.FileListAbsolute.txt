@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\bin\Debug\LerafSchoolManage.exe.config
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\bin\Debug\LerafSchoolManage.exe
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\bin\Debug\LerafSchoolManage.pdb
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.Properties.Resources.resources
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.exe
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.pdb
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.Login.resources
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.Home.resources
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.UserControls.UC_Dashboard.resources
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.UserControls.UC_Jurusan.resources
+C:\Users\HP\source\repos\LerafSchoolManage\LerafSchoolManage\obj\Debug\LerafSchoolManage.UserControls.UC_Students.resources
